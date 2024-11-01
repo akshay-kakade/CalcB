@@ -80,3 +80,5 @@ docs/_output/
 ENV/
 env/
 venv/
+
+.vercel
